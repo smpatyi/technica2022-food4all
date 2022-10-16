@@ -40,7 +40,7 @@ body {
   position: absolute;
   top: 118px;
   left: 573px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Bold;
   font-size: 48px;
   opacity: 1;
@@ -76,7 +76,7 @@ body {
   position: absolute;
   top: 134px;
   left: 1271px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Bold;
   font-size: 18px;
   opacity: 1;
@@ -88,7 +88,7 @@ body {
   position: absolute;
   top: 313px;
   left: 100px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Bold;
   font-size: 64px;
   opacity: 1;
@@ -100,7 +100,7 @@ body {
   position: absolute;
   top: 404px;
   left: 439px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Light;
   font-size: 32px;
   opacity: 1;
@@ -172,7 +172,7 @@ body {
   position: absolute;
   top: 857px;
   left: 120px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Bold;
   font-size: 20px;
   opacity: 1;
@@ -184,7 +184,7 @@ body {
   position: absolute;
   top: 857px;
   left: 786px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Bold;
   font-size: 20px;
   opacity: 1;
@@ -196,7 +196,7 @@ body {
   position: absolute;
   top: 857px;
   left: 447px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Bold;
   font-size: 20px;
   opacity: 1;
@@ -208,7 +208,7 @@ body {
   position: absolute;
   top: 648px;
   left: 1100px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Bold;
   font-size: 24px;
   opacity: 1;
@@ -220,7 +220,7 @@ body {
   position: absolute;
   top: 651px;
   left: 464px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Bold;
   font-size: 20px;
   opacity: 1;
@@ -232,7 +232,7 @@ body {
   position: absolute;
   top: 651px;
   left: 796px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Bold;
   font-size: 20px;
   opacity: 1;
@@ -244,7 +244,7 @@ body {
   position: absolute;
   top: 857px;
   left: 1119px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Bold;
   font-size: 20px;
   opacity: 1;
@@ -256,7 +256,7 @@ body {
   position: absolute;
   top: 892px;
   left: 119px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Light;
   opacity: 1;
   text-align: left;
@@ -267,7 +267,7 @@ body {
   position: absolute;
   top: 892px;
   left: 786px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Light;
   font-size: 18px;
   opacity: 1;
@@ -279,7 +279,7 @@ body {
   position: absolute;
   top: 892px;
   left: 447px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Light;
   opacity: 1;
   text-align: left;
@@ -299,7 +299,7 @@ body {
   position: absolute;
   top: 557px;
   left: 422px;
-  font-family: Urbane Rounded;
+  font-family: urbane-rounded, sans-serif;
   font-weight: Bold;
   font-size: 24px;
   opacity: 1;
